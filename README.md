@@ -1,6 +1,6 @@
-# SPECTMERCYRE STUDIO
+# SpectMercyRE STUDIO
 
-I'm XuMing SpectMercyRE, a student now of South China Agricultural University (SCAU) in Guangzhou, China. As a **SUPER full-stack developer**,I'd like to try everything new.The founder of **SPECTMERCYRE STUDIO**.
+I'm SpectMercyRE,you can call me 虚瞑 in chinese.A student now of South China Agricultural University (SCAU) in Guangzhou, China. As a **SUPER full-stack developer**,I'd like to try everything new.The founder of **SpectMercyRE STUDIO**.
 
  ⚡ **Brief Introduction:** ⚡
 
