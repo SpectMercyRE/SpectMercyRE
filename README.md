@@ -2,7 +2,7 @@
 
 I'm XuMing SpectMercyRE, a student now of South China Agricultural University (SCAU) in Guangzhou, China. As a **SUPER full-stack developer**,I'd like to try everything new.The founder of **SPECTMERCYRE STUDIO**.
 
- ⚡**Brief Introduction:**⚡
+ ⚡ **Brief Introduction:** ⚡
 
 - 📫 Ways to reach me: Email me at `2942228373@qq.com`. If you have WeChat, QQ, Discord, or Telegram, just add me as a friend.
 - 🏠 I came from Hohhot, Inner Mongolia, China
