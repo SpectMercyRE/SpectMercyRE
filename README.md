@@ -34,25 +34,25 @@ I'm XuMing SpectMercyRE, a student now of South China Agricultural University (S
       <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=ae" alt="ae" width="45" height="45" />
       </a>
-      <br/> Adobe After Effects
+      <br/> After Effects
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=au" alt="au" width="45" height="45" />
       </a>
-      <br/> Adove Audition
+      <br/> Audition
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=ps" alt="ps" width="45" height="45" />
       </a>
-      <br/> Adobe Photoshop
+      <br/> Photoshop
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=pr" alt="pr" width="45" height="45" />
       </a>
-      <br/> Adobe Premiere Pro
+      <br/> Premiere Pro
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
